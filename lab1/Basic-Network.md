@@ -188,7 +188,7 @@ ping 10.0.0.2
 
 We've successfully set up a static connection between the routers and the PCs.
 
-## Dynamic Routing
+## Default Routing
 
 This is limited to the topology's edge routers, which in this instance are R1 and R3.
 
