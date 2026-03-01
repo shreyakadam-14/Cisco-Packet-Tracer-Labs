@@ -2,7 +2,7 @@
 
 ## Objective
 
-To configure static and dynamic routing between two networks.
+To configure static routing between two networks.
 
 ## Topology
 
